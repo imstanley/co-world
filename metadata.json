@@ -1,0 +1,15 @@
+{
+  "name": "Co-World 3D",
+  "description": "A browser-based multiplayer 3D creative space. Open in multiple tabs to see multiplayer functionality via BroadcastChannel.",
+  "dependencies": {
+    "three": "^0.160.0",
+    "@types/three": "^0.160.0",
+    "@react-three/fiber": "^8.15.0",
+    "@react-three/drei": "^9.99.0",
+    "zustand": "^4.5.0",
+    "uuid": "^9.0.1",
+    "@types/uuid": "^9.0.0",
+    "lucide-react": "^0.300.0"
+  },
+  "requestFramePermissions": []
+}
